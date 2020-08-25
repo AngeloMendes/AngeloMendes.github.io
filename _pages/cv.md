@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Information Systems, Federal Institute of Southeast Minas Gerais - Brazil, 2016
-* M.S. in Computer Science, Federal University of Juiz de Fora - Brazil, 2019
-* Ph.D in Computer Science, São Paulo University, 2025 (expected)
+* B.S. in Information Systems, Instituto Federal do Sudeste de Minas Gerais - Brazil, 2016
+* M.S. in Computer Science, Universidade Federal de Juiz de Fora - Brazil, 2019
+* Ph.D in Computer Science, Universidade de São Paulo - Brazil, 2025 (expected)
 
 Work experience
 ======
