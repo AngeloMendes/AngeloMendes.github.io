@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Information Systems, Federal Institute of Southeast Minas Gerais - Brazil, 2016
+* M.S. in Computer Science, Federal University of Juiz de Fora - Brazil, 2019
+* Ph.D in Computer Science, São Paulo University, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May/2019 to July/2020: Tech Lead
+  * Imersa
+  * Duties included: Leadership of the technology team and link with the creative and business teams
+
+* September/2018 to July/2020: Backend Developer
+  * Imersa
+  * Duties included: Analysis and Systems Development
+
+* January/2018 to August/2018: Backend Developer
+  * Grupo Você
+  * Duties included: Analysis and Systems Development
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Git flow
+* Machine Learning
+* Data Science
+* Docker
+* SQL
+* AWS
 
 Publications
 ======
